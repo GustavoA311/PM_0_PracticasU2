@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Object Include="..\..\..\..\..\..\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="Practica_1_Doble_y_tripe.asm" />
+    <MASM Include="Practica_2_areaYperimetro_rectangulo.asm" />
+    <MASM Include="Practica_0_presentacion.asm" />
+    <MASM Include="Practica_3_salario.asm" />
+    <MASM Include="Practica_4_suma.asm" />
+    <MASM Include="Practica_5_IMC.asm" />
+    <MASM Include="Practica_6_leer_N_numeros.asm" />
+    <MASM Include="Practica_8_velocidad.asm" />
+    <MASM Include="practica_9_n_pares.asm" />
+    <MASM Include="Practica_10_fibonacci.asm" />
+    <MASM Include="practica_11_primos.asm" />
+    <MASM Include="practica_12_suma_n_mayor.asm" />
+    <MASM Include="practica_13_tablas de multiplicar.asm" />
+    <MASM Include="practica_14_calificaciones.asm" />
+    <MASM Include="Practica_15_valor_negativo.asm" />
+    <MASM Include="practica_16_contador_numeros.asm" />
+    <MASM Include="practica_17_numero_par_inpar.asm" />
+    <MASM Include="practica_7_matriz.asm" />
+    <MASM Include="practica_18_Pmedio.asm" />
+    <MASM Include="practica_20_bin_dec.asm" />
+    <MASM Include="Proyecto_Maquina_refrescos.asm" />
+    <MASM Include="px.asm" />
+  </ItemGroup>
+</Project>
